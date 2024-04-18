@@ -1,0 +1,1177 @@
+{
+  "vaultName": "task-4-",
+  "lastExport": 1713467960203,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager show-inline-title theme-dark",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Глаз человека/Аккомодация.md",
+    "Глаз человека/Близорукость.md",
+    "Глаз человека/Дальнозоркость.md",
+    "Глаз человека/Расстояние наилучшего зрения.md",
+    "Глаз человека/Строение глаза.md",
+    "Глаз человека/Угол зрения.md",
+    "Глаз человека/README.md",
+    "Линзы. Ход лучей/Виды собирающих и рассеивающих линз.md",
+    "Линзы. Ход лучей/Двояковогнутая линза.md",
+    "Линзы. Ход лучей/Двояковыпуклая линза.md",
+    "Линзы. Ход лучей/README.md",
+    "Оптические приборы/Лупа.md",
+    "Оптические приборы/Микроскоп.md",
+    "Оптические приборы/Невооружённый глаз.md",
+    "Оптические приборы/Труба Галилея.md",
+    "Оптические приборы/Труба Кеплера.md",
+    "Оптические приборы/README.md",
+    "Отражение света/Закон отражения.md",
+    "Отражение света/Плоское зеркало.md",
+    "Отражение света/README.md",
+    "Преломление света/Закон преломления (общий случай).md",
+    "Преломление света/Закон преломления (частный случай).md",
+    "Преломление света/Обратимость световых лучей.md",
+    "Преломление света/Полное внутреннее отражение.md",
+    "Преломление света/README.md",
+    "Световые лучи/Геометрическая тень.md",
+    "Световые лучи/Законы геометрической оптики.md",
+    "Световые лучи/README.md",
+    "Тонкие линзы. Построение изображений/Рассеивающая линза мнимое изображение предмета.md",
+    "Тонкие линзы. Построение изображений/Рассеивающая линза мнимое изображение точки.md",
+    "Тонкие линзы. Построение изображений/Собирающая линза действительное изображение предмета.md",
+    "Тонкие линзы. Построение изображений/Собирающая линза действительное изображение точки.md",
+    "Тонкие линзы. Построение изображений/Собирающая линза мнимое изображение предмета.md",
+    "Тонкие линзы. Построение изображений/Собирающая линза мнимое изображение точки.md",
+    "Тонкие линзы. Построение изображений/Собирающая линза предмет в фокальной плоскости.md",
+    "Тонкие линзы. Построение изображений/README.md",
+    "Тонкие линзы. Ход лучей/Оптический центр и фокальная плоскость.md",
+    "Тонкие линзы. Ход лучей/Понятие тонкой линзы.md",
+    "Тонкие линзы. Ход лучей/Ход луча через оптический центр.md",
+    "Тонкие линзы. Ход лучей/Ход лучей в рассеивающей линзе.md",
+    "Тонкие линзы. Ход лучей/Ход лучей в собирающей линзе.md",
+    "Тонкие линзы. Ход лучей/README.md",
+    "image/Рисунок1.png",
+    "image/Рисунок2.jpg",
+    "image/Рисунок3.jpg",
+    "image/Рисунок4.png",
+    "image/Рисунок5.png",
+    "image/Рисунок6.jpg",
+    "image/Рисунок7.jpg",
+    "image/Рисунок8.jpg",
+    "image/Рисунок9.jpg",
+    "image/Рисунок10.jpg",
+    "image/Рисунок11.jpg",
+    "image/Рисунок12.jpg",
+    "image/Рисунок13.jpg",
+    "image/Рисунок14.jpg",
+    "image/Рисунок15.jpg",
+    "image/Рисунок16.jpg",
+    "image/Рисунок17.jpg",
+    "image/Рисунок18.jpg",
+    "image/Рисунок19.jpg",
+    "image/Рисунок20.jpg",
+    "image/Рисунок21jpg.jpg",
+    "image/Рисунок22.jpg",
+    "image/Рисунок23.jpg",
+    "image/Рисунок24.jpg",
+    "image/Рисунок25.jpg",
+    "image/Рисунок26.jpg",
+    "image/Рисунок27.jpg",
+    "image/Рисунок28.jpg",
+    "image/Рисунок29.jpg",
+    "image/Рисунок30.jpg",
+    "image/Рисунок31.jpg",
+    "image/Рисунок32.jpg",
+    "image/Рисунок33.jpg",
+    "image/Рисунок34.jpg",
+    "image/Рисунок35.jpg",
+    "image/Рисунок36.jpg",
+    "image/Рисунок37.jpg",
+    "image/Рисунок38.jpg",
+    "image/Рисунок39.jpg",
+    "image/Рисунок40.jpg",
+    "image/Рисунок41.jpg",
+    "image/Рисунок42.jpg",
+    "image/Рисунок43.jpg",
+    "image/Рисунок44.jpg",
+    "image/Рисунок45.jpg",
+    "image/Рисунок46.jpg",
+    "image/Рисунок47.jpg",
+    "image/Рисунок48.jpg",
+    "image/Рисунок49.jpg",
+    "image/Рисунок50.jpg",
+    "image/Рисунок51.jpg",
+    "image/Рисунок52.jpg",
+    "image/Рисунок53.jpg",
+    "image/Рисунок54.jpg",
+    "image/Рисунок55.jpg",
+    "image/Рисунок56.jpg",
+    "image/Рисунок57.jpg",
+    "image/Рисунок58.jpg",
+    "image/Рисунок59.jpg",
+    "image/Рисунок60.jpg",
+    "image/Рисунок61.jpg",
+    "image/Рисунок62.jpg",
+    "image/Рисунок63.jpg",
+    "image/Рисунок64.jpg",
+    "image/Рисунок65.jpg",
+    "image/Рисунок66.jpg",
+    "Photo/1.jpg",
+    "Photo/2.jpg",
+    "Photo/3.png",
+    "Photo/4.png",
+    "Photo/5.png",
+    "Photo/6.png",
+    "Photo/7.png",
+    "Photo/8.png",
+    "Photo/9.png",
+    "Photo/10.png",
+    "Глаз человека.md",
+    "Новый текстовый документ.md",
+    "Световые лучи.md",
+    "index.md",
+    "Pasted image 20240404115935.png",
+    "Pasted image 20240404120056.png",
+    "Pasted image 20240404121214.png",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "fileInfo": {
+    "Глаз человека/Аккомодация.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 5817,
+      "exportedPath": "Глаз человека/Аккомодация.html",
+      "dependencies": []
+    },
+    "Глаз человека/Близорукость.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 3851,
+      "exportedPath": "Глаз человека/Близорукость.html",
+      "dependencies": []
+    },
+    "Глаз человека/Дальнозоркость.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 2778,
+      "exportedPath": "Глаз человека/Дальнозоркость.html",
+      "dependencies": []
+    },
+    "Глаз человека/Расстояние наилучшего зрения.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 2059,
+      "exportedPath": "Глаз человека/Расстояние наилучшего зрения.html",
+      "dependencies": []
+    },
+    "Глаз человека/Строение глаза.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 4376,
+      "exportedPath": "Глаз человека/Строение глаза.html",
+      "dependencies": []
+    },
+    "Глаз человека/Угол зрения.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 4077,
+      "exportedPath": "Глаз человека/Угол зрения.html",
+      "dependencies": []
+    },
+    "Глаз человека/README.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 1266,
+      "exportedPath": "Глаз человека/README.html",
+      "dependencies": []
+    },
+    "Линзы. Ход лучей/Виды собирающих и рассеивающих линз.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 3091,
+      "exportedPath": "Линзы. Ход лучей/Виды собирающих и рассеивающих линз.html",
+      "dependencies": []
+    },
+    "Линзы. Ход лучей/Двояковогнутая линза.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 4154,
+      "exportedPath": "Линзы. Ход лучей/Двояковогнутая линза.html",
+      "dependencies": []
+    },
+    "Линзы. Ход лучей/Двояковыпуклая линза.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 6076,
+      "exportedPath": "Линзы. Ход лучей/Двояковыпуклая линза.html",
+      "dependencies": []
+    },
+    "Линзы. Ход лучей/README.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 1482,
+      "exportedPath": "Линзы. Ход лучей/README.html",
+      "dependencies": []
+    },
+    "Оптические приборы/Лупа.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 4647,
+      "exportedPath": "Оптические приборы/Лупа.html",
+      "dependencies": []
+    },
+    "Оптические приборы/Микроскоп.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 6822,
+      "exportedPath": "Оптические приборы/Микроскоп.html",
+      "dependencies": []
+    },
+    "Оптические приборы/Невооружённый глаз.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 2444,
+      "exportedPath": "Оптические приборы/Невооружённый глаз.html",
+      "dependencies": []
+    },
+    "Оптические приборы/Труба Галилея.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 2784,
+      "exportedPath": "Оптические приборы/Труба Галилея.html",
+      "dependencies": []
+    },
+    "Оптические приборы/Труба Кеплера.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 3540,
+      "exportedPath": "Оптические приборы/Труба Кеплера.html",
+      "dependencies": []
+    },
+    "Оптические приборы/README.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 2035,
+      "exportedPath": "Оптические приборы/README.html",
+      "dependencies": []
+    },
+    "Отражение света/Закон отражения.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 5992,
+      "exportedPath": "Отражение света/Закон отражения.html",
+      "dependencies": []
+    },
+    "Отражение света/Плоское зеркало.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 5460,
+      "exportedPath": "Отражение света/Плоское зеркало.html",
+      "dependencies": []
+    },
+    "Отражение света/README.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 1475,
+      "exportedPath": "Отражение света/README.html",
+      "dependencies": []
+    },
+    "Преломление света/Закон преломления (общий случай).md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 3862,
+      "exportedPath": "Преломление света/Закон преломления (общий случай).html",
+      "dependencies": []
+    },
+    "Преломление света/Закон преломления (частный случай).md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 4841,
+      "exportedPath": "Преломление света/Закон преломления (частный случай).html",
+      "dependencies": []
+    },
+    "Преломление света/Обратимость световых лучей.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 2937,
+      "exportedPath": "Преломление света/Обратимость световых лучей.html",
+      "dependencies": []
+    },
+    "Преломление света/Полное внутреннее отражение.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 5757,
+      "exportedPath": "Преломление света/Полное внутреннее отражение.html",
+      "dependencies": []
+    },
+    "Преломление света/README.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 1694,
+      "exportedPath": "Преломление света/README.html",
+      "dependencies": []
+    },
+    "Световые лучи/Геометрическая тень.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 2314,
+      "exportedPath": "Световые лучи/Геометрическая тень.html",
+      "dependencies": []
+    },
+    "Световые лучи/Законы геометрической оптики.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 6190,
+      "exportedPath": "Световые лучи/Законы геометрической оптики.html",
+      "dependencies": []
+    },
+    "Световые лучи/README.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 1733,
+      "exportedPath": "Световые лучи/README.html",
+      "dependencies": []
+    },
+    "Тонкие линзы. Построение изображений/Рассеивающая линза мнимое изображение предмета.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 884,
+      "exportedPath": "Тонкие линзы. Построение изображений/Рассеивающая линза мнимое изображение предмета.html",
+      "dependencies": []
+    },
+    "Тонкие линзы. Построение изображений/Рассеивающая линза мнимое изображение точки.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 5191,
+      "exportedPath": "Тонкие линзы. Построение изображений/Рассеивающая линза мнимое изображение точки.html",
+      "dependencies": []
+    },
+    "Тонкие линзы. Построение изображений/Собирающая линза действительное изображение предмета.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 4354,
+      "exportedPath": "Тонкие линзы. Построение изображений/Собирающая линза действительное изображение предмета.html",
+      "dependencies": []
+    },
+    "Тонкие линзы. Построение изображений/Собирающая линза действительное изображение точки.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 9398,
+      "exportedPath": "Тонкие линзы. Построение изображений/Собирающая линза действительное изображение точки.html",
+      "dependencies": []
+    },
+    "Тонкие линзы. Построение изображений/Собирающая линза мнимое изображение предмета.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 1445,
+      "exportedPath": "Тонкие линзы. Построение изображений/Собирающая линза мнимое изображение предмета.html",
+      "dependencies": []
+    },
+    "Тонкие линзы. Построение изображений/Собирающая линза мнимое изображение точки.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 4679,
+      "exportedPath": "Тонкие линзы. Построение изображений/Собирающая линза мнимое изображение точки.html",
+      "dependencies": []
+    },
+    "Тонкие линзы. Построение изображений/Собирающая линза предмет в фокальной плоскости.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 2493,
+      "exportedPath": "Тонкие линзы. Построение изображений/Собирающая линза предмет в фокальной плоскости.html",
+      "dependencies": []
+    },
+    "Тонкие линзы. Построение изображений/README.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 4790,
+      "exportedPath": "Тонкие линзы. Построение изображений/README.html",
+      "dependencies": []
+    },
+    "Тонкие линзы. Ход лучей/Оптический центр и фокальная плоскость.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 4759,
+      "exportedPath": "Тонкие линзы. Ход лучей/Оптический центр и фокальная плоскость.html",
+      "dependencies": []
+    },
+    "Тонкие линзы. Ход лучей/Понятие тонкой линзы.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 3509,
+      "exportedPath": "Тонкие линзы. Ход лучей/Понятие тонкой линзы.html",
+      "dependencies": []
+    },
+    "Тонкие линзы. Ход лучей/Ход луча через оптический центр.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 3049,
+      "exportedPath": "Тонкие линзы. Ход лучей/Ход луча через оптический центр.html",
+      "dependencies": []
+    },
+    "Тонкие линзы. Ход лучей/Ход лучей в рассеивающей линзе.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 3594,
+      "exportedPath": "Тонкие линзы. Ход лучей/Ход лучей в рассеивающей линзе.html",
+      "dependencies": []
+    },
+    "Тонкие линзы. Ход лучей/Ход лучей в собирающей линзе.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 3651,
+      "exportedPath": "Тонкие линзы. Ход лучей/Ход лучей в собирающей линзе.html",
+      "dependencies": []
+    },
+    "Тонкие линзы. Ход лучей/README.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 1529,
+      "exportedPath": "Тонкие линзы. Ход лучей/README.html",
+      "dependencies": []
+    },
+    "image/Рисунок1.png": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 91790,
+      "exportedPath": "image/Рисунок1.png",
+      "dependencies": []
+    },
+    "image/Рисунок2.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 37545,
+      "exportedPath": "image/Рисунок2.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок3.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 34406,
+      "exportedPath": "image/Рисунок3.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок4.png": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 24507,
+      "exportedPath": "image/Рисунок4.png",
+      "dependencies": []
+    },
+    "image/Рисунок5.png": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 22300,
+      "exportedPath": "image/Рисунок5.png",
+      "dependencies": []
+    },
+    "image/Рисунок6.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 42399,
+      "exportedPath": "image/Рисунок6.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок7.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 39448,
+      "exportedPath": "image/Рисунок7.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок8.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 36206,
+      "exportedPath": "image/Рисунок8.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок9.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 24237,
+      "exportedPath": "image/Рисунок9.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок10.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 45711,
+      "exportedPath": "image/Рисунок10.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок11.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 30145,
+      "exportedPath": "image/Рисунок11.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок12.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 30893,
+      "exportedPath": "image/Рисунок12.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок13.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 28066,
+      "exportedPath": "image/Рисунок13.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок14.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 28913,
+      "exportedPath": "image/Рисунок14.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок15.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 54527,
+      "exportedPath": "image/Рисунок15.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок16.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 45094,
+      "exportedPath": "image/Рисунок16.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок17.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 61901,
+      "exportedPath": "image/Рисунок17.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок18.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 53478,
+      "exportedPath": "image/Рисунок18.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок19.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 49079,
+      "exportedPath": "image/Рисунок19.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок20.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 80470,
+      "exportedPath": "image/Рисунок20.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок21jpg.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 58646,
+      "exportedPath": "image/Рисунок21jpg.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок22.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 29610,
+      "exportedPath": "image/Рисунок22.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок23.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 30111,
+      "exportedPath": "image/Рисунок23.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок24.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 29532,
+      "exportedPath": "image/Рисунок24.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок25.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 14982,
+      "exportedPath": "image/Рисунок25.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок26.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 16227,
+      "exportedPath": "image/Рисунок26.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок27.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 29784,
+      "exportedPath": "image/Рисунок27.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок28.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 29096,
+      "exportedPath": "image/Рисунок28.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок29.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 23250,
+      "exportedPath": "image/Рисунок29.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок30.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 29697,
+      "exportedPath": "image/Рисунок30.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок31.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 27147,
+      "exportedPath": "image/Рисунок31.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок32.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 35720,
+      "exportedPath": "image/Рисунок32.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок33.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 16458,
+      "exportedPath": "image/Рисунок33.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок34.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 21818,
+      "exportedPath": "image/Рисунок34.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок35.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 35751,
+      "exportedPath": "image/Рисунок35.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок36.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 53751,
+      "exportedPath": "image/Рисунок36.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок37.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 19970,
+      "exportedPath": "image/Рисунок37.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок38.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 24875,
+      "exportedPath": "image/Рисунок38.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок39.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 51418,
+      "exportedPath": "image/Рисунок39.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок40.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 38293,
+      "exportedPath": "image/Рисунок40.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок41.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 30661,
+      "exportedPath": "image/Рисунок41.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок42.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 37419,
+      "exportedPath": "image/Рисунок42.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок43.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 29405,
+      "exportedPath": "image/Рисунок43.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок44.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 33477,
+      "exportedPath": "image/Рисунок44.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок45.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 47206,
+      "exportedPath": "image/Рисунок45.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок46.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 43759,
+      "exportedPath": "image/Рисунок46.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок47.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 34566,
+      "exportedPath": "image/Рисунок47.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок48.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 41091,
+      "exportedPath": "image/Рисунок48.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок49.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 32254,
+      "exportedPath": "image/Рисунок49.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок50.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 44590,
+      "exportedPath": "image/Рисунок50.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок51.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 31417,
+      "exportedPath": "image/Рисунок51.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок52.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 27230,
+      "exportedPath": "image/Рисунок52.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок53.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 33043,
+      "exportedPath": "image/Рисунок53.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок54.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 21442,
+      "exportedPath": "image/Рисунок54.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок55.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 47678,
+      "exportedPath": "image/Рисунок55.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок56.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 24998,
+      "exportedPath": "image/Рисунок56.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок57.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 21744,
+      "exportedPath": "image/Рисунок57.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок58.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 23295,
+      "exportedPath": "image/Рисунок58.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок59.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 31084,
+      "exportedPath": "image/Рисунок59.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок60.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 24616,
+      "exportedPath": "image/Рисунок60.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок61.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 33893,
+      "exportedPath": "image/Рисунок61.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок62.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 31573,
+      "exportedPath": "image/Рисунок62.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок63.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 35374,
+      "exportedPath": "image/Рисунок63.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок64.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 48619,
+      "exportedPath": "image/Рисунок64.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок65.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 43449,
+      "exportedPath": "image/Рисунок65.jpg",
+      "dependencies": []
+    },
+    "image/Рисунок66.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 44283,
+      "exportedPath": "image/Рисунок66.jpg",
+      "dependencies": []
+    },
+    "Photo/1.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 86571,
+      "exportedPath": "Photo/1.jpg",
+      "dependencies": []
+    },
+    "Photo/2.jpg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 131559,
+      "exportedPath": "Photo/2.jpg",
+      "dependencies": []
+    },
+    "Photo/3.png": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 2858172,
+      "exportedPath": "Photo/3.png",
+      "dependencies": []
+    },
+    "Photo/4.png": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 4533929,
+      "exportedPath": "Photo/4.png",
+      "dependencies": []
+    },
+    "Photo/5.png": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 487807,
+      "exportedPath": "Photo/5.png",
+      "dependencies": []
+    },
+    "Photo/6.png": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 965304,
+      "exportedPath": "Photo/6.png",
+      "dependencies": []
+    },
+    "Photo/7.png": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 798792,
+      "exportedPath": "Photo/7.png",
+      "dependencies": []
+    },
+    "Photo/8.png": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 1832177,
+      "exportedPath": "Photo/8.png",
+      "dependencies": []
+    },
+    "Photo/9.png": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 2088218,
+      "exportedPath": "Photo/9.png",
+      "dependencies": []
+    },
+    "Photo/10.png": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 1713469,
+      "exportedPath": "Photo/10.png",
+      "dependencies": []
+    },
+    "Глаз человека.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 0,
+      "exportedPath": "Глаз человека.html",
+      "dependencies": []
+    },
+    "Новый текстовый документ.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 473,
+      "exportedPath": "Новый текстовый документ.html",
+      "dependencies": []
+    },
+    "Световые лучи.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 0,
+      "exportedPath": "Световые лучи.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 9295,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "Pasted image 20240404115935.png": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 26763,
+      "exportedPath": "Pasted image 20240404115935.png",
+      "dependencies": []
+    },
+    "Pasted image 20240404120056.png": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 93324,
+      "exportedPath": "Pasted image 20240404120056.png",
+      "dependencies": []
+    },
+    "Pasted image 20240404121214.png": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 114022,
+      "exportedPath": "Pasted image 20240404121214.png",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1713467960203,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    }
+  }
+}
